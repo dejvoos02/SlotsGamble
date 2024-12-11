@@ -12,9 +12,6 @@ using System.Windows.Shapes;
 
 namespace SlotsGamble.Views
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
     public partial class MainWindow : Window
     {
         public MainWindow()
@@ -27,10 +24,11 @@ namespace SlotsGamble.Views
         {
 
         }
-        private void btn_stop_Click(object sender, RoutedEventArgs e)
+        
+
+        private void btn_stop_Click_1(object sender, RoutedEventArgs e)
         {
 
         }
-
     }
 }

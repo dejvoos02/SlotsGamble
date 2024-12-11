@@ -18,3 +18,4 @@ C:\Users\Administrator\Desktop\škola\CS\SlotsGamble\obj\Debug\net8.0-windows\re
 C:\Users\Administrator\Desktop\škola\CS\SlotsGamble\obj\Debug\net8.0-windows\SlotsGamble.pdb
 C:\Users\Administrator\Desktop\škola\CS\SlotsGamble\obj\Debug\net8.0-windows\SlotsGamble.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\škola\CS\SlotsGamble\obj\Debug\net8.0-windows\ref\SlotsGamble.dll
+C:\Users\Administrator\Desktop\škola\CS\SlotsGamble\obj\Debug\net8.0-windows\SlotsGamble.sourcelink.json

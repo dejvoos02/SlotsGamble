@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\\u0161kola\\CS\\SlotsGamble\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4066B83D-1818-45A1-96A5-11CB5EAF16BD}|SlotsGamble.csproj|c:\\users\\administrator\\desktop\\\u0161kola\\cs\\slotsgamble\\viewmodels\\programviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4066B83D-1818-45A1-96A5-11CB5EAF16BD}|SlotsGamble.csproj|solutionrelative:viewmodels\\programviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4066B83D-1818-45A1-96A5-11CB5EAF16BD}|SlotsGamble.csproj|c:\\users\\administrator\\desktop\\\u0161kola\\cs\\slotsgamble\\models\\slotgamblemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4066B83D-1818-45A1-96A5-11CB5EAF16BD}|SlotsGamble.csproj|solutionrelative:models\\slotgamblemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4066B83D-1818-45A1-96A5-11CB5EAF16BD}|SlotsGamble.csproj|c:\\users\\administrator\\desktop\\\u0161kola\\cs\\slotsgamble\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4066B83D-1818-45A1-96A5-11CB5EAF16BD}|SlotsGamble.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4066B83D-1818-45A1-96A5-11CB5EAF16BD}|SlotsGamble.csproj|c:\\users\\administrator\\desktop\\\u0161kola\\cs\\slotsgamble\\viewmodels\\programviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4066B83D-1818-45A1-96A5-11CB5EAF16BD}|SlotsGamble.csproj|solutionrelative:viewmodels\\programviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4066B83D-1818-45A1-96A5-11CB5EAF16BD}|SlotsGamble.csproj|c:\\users\\administrator\\desktop\\\u0161kola\\cs\\slotsgamble\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4066B83D-1818-45A1-96A5-11CB5EAF16BD}|SlotsGamble.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4066B83D-1818-45A1-96A5-11CB5EAF16BD}|SlotsGamble.csproj|c:\\users\\administrator\\desktop\\\u0161kola\\cs\\slotsgamble\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4066B83D-1818-45A1-96A5-11CB5EAF16BD}|SlotsGamble.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4066B83D-1818-45A1-96A5-11CB5EAF16BD}|SlotsGamble.csproj|c:\\users\\administrator\\desktop\\\u0161kola\\cs\\slotsgamble\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4066B83D-1818-45A1-96A5-11CB5EAF16BD}|SlotsGamble.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProgramViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u0161kola\\CS\\SlotsGamble\\ViewModels\\ProgramViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\ProgramViewModel.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u0161kola\\CS\\SlotsGamble\\ViewModels\\ProgramViewModel.cs",
               "RelativeToolTip": "ViewModels\\ProgramViewModel.cs",
-              "ViewState": "AgIAAKoAAAAAAAAAAAAqwKYAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAowAQBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T04:01:08.132Z",
               "IsPinned": true,
@@ -44,15 +48,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SlotGambleModel.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u0161kola\\CS\\SlotsGamble\\Models\\SlotGambleModel.cs",
               "RelativeDocumentMoniker": "Models\\SlotGambleModel.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u0161kola\\CS\\SlotsGamble\\Models\\SlotGambleModel.cs",
               "RelativeToolTip": "Models\\SlotGambleModel.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAiwC4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T05:22:23.156Z"
+              "WhenOpened": "2024-12-11T01:41:21.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u0161kola\\CS\\SlotsGamble\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u0161kola\\CS\\SlotsGamble\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T00:27:34.371Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -63,19 +80,21 @@
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u0161kola\\CS\\SlotsGamble\\Views\\MainWindow.xaml",
               "RelativeToolTip": "Views\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-10T05:04:24.478Z"
+              "WhenOpened": "2024-12-10T05:04:24.478Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u0161kola\\CS\\SlotsGamble\\Views\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u0161kola\\CS\\SlotsGamble\\Views\\MainWindow.xaml.cs",
               "RelativeToolTip": "Views\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBMAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T04:51:02.231Z"
+              "WhenOpened": "2024-12-09T04:51:02.231Z",
+              "EditorCaption": ""
             }
           ]
         }

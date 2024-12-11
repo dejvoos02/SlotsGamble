@@ -29,13 +29,14 @@ namespace SlotsGamble.Models
         private const int SIZE = 3;
         private Random _random;
         private DispatcherTimer _timer;
+        public const int DEFAULT_SPEED = 100;
 
         public SlotGambleModel()
         {
             GeneratedNumbers = new int[SIZE];
             Level = 1;
-            Speed = 50;
-            Score = 0;
+            Speed = DEFAULT_SPEED;
+            Score = 300;
 
             _random = new Random();
             _timer = new DispatcherTimer();
